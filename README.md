@@ -1,3 +1,2 @@
 # QUIZ
-Web development project - A quiz
-We have made a quiz on maths , science ,html and css
+Web development project - The presented quiz have question categories of maths , science , html and css.
