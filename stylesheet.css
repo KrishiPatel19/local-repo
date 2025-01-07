@@ -2,6 +2,7 @@
 h1{
     text-align: center;
     background-color: palevioletred;
+    border-radius: 30px;
     padding : 15px,15px,15px,15px;
     
 }
@@ -10,7 +11,8 @@ button{
     color: black;
 }
 body{
-    background-color: paleturquoise;
+    background-image: url(/local-repo/background.jfif) ;
+    background-size: cover;
     padding: 10px 10px 10px;
     margin: 15px, 15px,15px,15px;
 }
@@ -21,14 +23,28 @@ body{
     margin-right: 25%;
     border-radius: 30px ;
     padding : 5px 15px 15px 15px ;
+    border: solid ;
+    border-color: gray;
 }
 #next{
     margin-left: 45%;
     align-items: center;
     text-align: center;
+    background-color:rgb(120, 180, 216);
+    border-radius: 20px;
+    border:none;
+    padding: 8px;
+    width: 80px;
+    font-weight: bold;
+    cursor: pointer;
+}
+#next:hover
+{
+    background-color: rgb(201, 248, 124) ;
 }
 #name{
     margin-left: 32%;
+    font-size: medium;
 }
 img{
     border-radius: 10%;
