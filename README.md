@@ -1,1 +1,2 @@
-# This is local repo
+# JK-quiz
+Web development project - A quiz

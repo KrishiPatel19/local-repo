@@ -1,0 +1,39 @@
+
+h1{
+    text-align: center;
+    background-color: palevioletred;
+    padding : 15px,15px,15px,15px;
+    
+}
+button{
+    
+    color: black;
+}
+body{
+    background-color: paleturquoise;
+    padding: 10px 10px 10px;
+    margin: 15px, 15px,15px,15px;
+}
+.home{
+    background-color: white;
+    margin-top: 10%;
+    margin-left: 25%;
+    margin-right: 25%;
+    border-radius: 30px ;
+    padding : 5px 15px 15px 15px ;
+}
+#next{
+    margin-left: 45%;
+    align-items: center;
+    text-align: center;
+}
+#name{
+    margin-left: 32%;
+}
+img{
+    border-radius: 10%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 70px;
+}
