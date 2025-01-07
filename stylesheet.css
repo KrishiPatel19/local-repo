@@ -11,7 +11,7 @@ button{
     color: black;
 }
 body{
-    background-image: url(/local-repo/background.jfif) ;
+    background-image: url(/background.jfif) ;
     background-size: cover;
     padding: 10px 10px 10px;
     margin: 15px, 15px,15px,15px;
@@ -52,4 +52,68 @@ img{
     justify-content: center;
     align-items: center;
     gap: 70px;
+    margin-left: 50px;
+}
+.i{
+    padding: 10px 10px 10px 10px;
+    background-color: palevioletred;
+}
+.cat{
+    padding: 10px 10px 10px 10px;
+    background-color:rgb(120, 180, 216) ;
+    font-size: large;
+    border-radius: 50px;
+}
+.index
+{
+    border-radius: 20px;
+    border: none;
+    margin: 10px 10px 10px 10px;
+    background-color: white;
+}
+.i,.cat,.choice{
+    margin-left: 50px;
+    margin-right: 50px;
+}
+.maths,.science,.HTML,.CSS{
+    margin : 10px 10px 10px 10px;
+    background-color: aliceblue;
+    border-radius: 20px;
+    border: none;
+}
+.question1,.question2,.question3,.question4,.question5{
+    background-color: paleturquoise;
+    margin-left: 50px;
+    margin-right: 50px;
+    border-radius: 30px;
+    padding: 10px 15px 10px 15px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+.lower{
+    background-color: palegoldenrod;
+    margin-left: 50px;
+    margin-right: 50px;
+    border-radius: 30px;
+    padding: 10px 15px 10px 15px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    text-align: center;
+}
+#ScUpdate{
+    margin-top: 10px;
+    background-color:rgb(120, 180, 216);
+    border-radius: 20px;
+    border:none;
+    font-weight: bold;
+    cursor: pointer;
+    padding: 10px 10px 10px 10px;
+}
+.score-board{
+    border-radius: 10px;
+    background-color: palevioletred;
+    margin-left: 45%;
+    margin-right: 45%;
+    margin-top: 10px;
+    padding: 5px 5px 5px 5px;
 }
